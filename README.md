@@ -1,5 +1,4 @@
-# Material Vtuber Button
-- lulu-button
+# lulu-Button
 - 开发进度0%
 - 正在从零开始学前端
 - 希望有人能接手这个项目
